@@ -36,7 +36,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 ## Hello_CircuitPython
 
 ### Description & Code
-
+I put a code into "Mu 1.1.0 Beta and made the light on my Metro express change colors and change how fast the light was blinking.
 ```python
 Code goes here
 
